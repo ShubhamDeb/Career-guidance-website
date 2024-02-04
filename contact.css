@@ -1,0 +1,14 @@
+body{
+    color: black;
+background-image: url(contact.jpg);
+}
+main{
+    text-align: center;
+    
+}
+
+footer{
+    background-color: none;
+    color: rgb(236, 12, 12);
+    text-align: center;
+}

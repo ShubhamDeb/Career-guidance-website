@@ -1,0 +1,42 @@
+/* 10.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 2px;
+    padding: 2px;
+    background-image:url(Contact.jpg) ;
+}
+
+/* Header styles */
+header {
+    color: #8f2d2d;
+    background-image: url(Contact.jpg);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header h1 styles */
+header h1 {
+    margin: 0;
+    color: rgb(3, 18, 18);
+}
+
+/* Main content styles */
+h2 {
+    color: #1613e8;
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: rgb(149, 18, 205);
+}
+/*footer styles*/
+footer
+{
+    background-color: none;
+    color: rgb(236, 12, 12);
+    text-align: center;
+}
